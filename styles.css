@@ -1,9 +1,9 @@
 
 /* Your CSS Code here. */
-.demo{
-	margin: 20px;
-	border: 15px solid blue;
-	width: 300px;
-	padding: 50px;
-	background: lightblue;
+.test1{
+	background-color:lightblue;
+	padding:50px;
+	width:300px;
+	border:15px solid blue;
+	margin:20px;
 }
